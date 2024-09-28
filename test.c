@@ -1,7 +1,10 @@
 #include<stdio.h>
 
 int main(void){
-printf("test\n");
+
+	printf(" second test\n");
+
+	printf("1111");
 return 0;
 
-}
+
